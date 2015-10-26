@@ -2,7 +2,7 @@
     "name": "radekb/propel-modified-value-behavior",
     "description": "Propel behavior for Access previous value of field after called setter method",
     "require": {
-        "propel/propel1": "1.*"
+        "propel/propel": "2.0.x-dev"
     },
     "license": "MIT",
     "authors": [
